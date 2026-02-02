@@ -1908,6 +1908,7 @@ main {
   padding: 60px;
   background: var(--bgColor);
   margin-top: 25px;
+  margin-bottom: 25px;
   text-align: center;
 }
 
